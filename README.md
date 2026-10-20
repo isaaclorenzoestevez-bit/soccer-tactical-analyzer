@@ -16,8 +16,8 @@ Tech Stack
 * **Pandas & NumPy** (for data management and math)
 * **Matplotlib & SciPy** (for pitch rendering and Voronoi geometry)
 
-How to Run Locally
-1. Clone this repository.
-2. Install dependencies:
+How To Run Locally
+1. Download this project as a ZIP file (click the green **Code** button at the top of the repository page, then click **Download ZIP**).
+2. Open your terminal or command prompt in that folder and install the required libraries:
    ```bash
    pip install streamlit pandas numpy matplotlib scipy
