@@ -21,3 +21,6 @@ How To Run Locally
 2. Open your terminal or command prompt in that folder and install the required libraries:
    ```bash
    pip install streamlit pandas numpy matplotlib scipy
+
+Run The app:
+   streamlit run tactical_analyzer.py
